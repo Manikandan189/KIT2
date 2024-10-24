@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "mark": 78,
+      "subject": "English",
+      "grade": "B+"
+    },
+    {
+      "id": "3",
+      "name": "Michael Johnson",
+      "mark": 92,
+      "subject": "Science",
+      "grade": "A+"
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "mark": 67,
+      "subject": "History",
+      "grade": "C"
+    },
+    {
+      "id": "5",
+      "name": "mani",
+      "mark": 74,
+      "subject": "Geography",
+      "grade": "B"
+    },
+    {
+      "id": "7",
+      "name": "James Taylor",
+      "mark": 95,
+      "subject": "Computer Science",
+      "grade": "A+"
+    },
+    {
+      "id": "8",
+      "name": "Isabella Martinez",
+      "mark": 81,
+      "subject": "Biology",
+      "grade": "B+"
+    },
+    {
+      "id": "9",
+      "name": "Ethan Anderson",
+      "mark": 70,
+      "subject": "Chemistry",
+      "grade": "B"
+    },
+    {
+      "id": "10",
+      "name": "Ava Thompson",
+      "mark": 62,
+      "subject": "Physics",
+      "grade": "C+"
+    },
+    {
+      "id": "6",
+      "name": "vel",
+      "subject": "maths",
+      "mark": "43",
+      "grade": "O"
+    }
+  ]
+}
